@@ -38,6 +38,10 @@ A React-based dish polling application where users can vote for their favorite d
 - Local Storage
 - React Router DOM
 
+## Live Demo
+
+- View Live Application : https://dish-poll-result.netlify.app/
+
 ## Project Structure
 
 ```
