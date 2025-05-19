@@ -4,24 +4,24 @@ A React-based dish polling application where users can vote for their favorite d
 
 ## Features
 
-- 🍽️ **Dish Voting System**
+-  **Dish Voting System**
   - Select top 3 favorite dishes
   - Point system (30/20/10 points for 1st/2nd/3rd)
   - Edit votes anytime
   - Clear all selections option
 
-- 📊 **Results Visualization**
+-  **Results Visualization**
   - Interactive bar graph showing points distribution
   - Detailed list view of all dishes
   - Real-time updates
   - User's selections highlighted
 
-- 🔐 **User Management**
+-  **User Management**
   - User authentication
   - Persistent voting data
   - Individual user rankings
 
-- 🎨 **Modern UI/UX**
+-  **Modern UI/UX**
   - Responsive design
   - Clean and intuitive interface
   - Loading states
